@@ -1,0 +1,17 @@
+# Download locali di Terraform
+.terraform/
+
+# File State e backup
+*.tfstate
+*.tfstate.*
+
+# Piani Terraform salvati
+*.tfplan
+
+# File che potrebbero contenere segreti
+*.tfvars
+*.tfvars.json
+
+# Log di errore
+crash.log
+crash.*.log
