@@ -98,6 +98,12 @@ to a public repository.
 - [x] GitHub repository created
 - [x] GitHub Actions workflow executed successfully
 - [x] README documentation added
+## CI/CD Evidence
+
+GitHub Actions automatically checks Terraform formatting
+and configuration on every push and pull request.
+
+![Terraform Checks completed successfully](docs/images/terraform-checks-success.png)
 
 ## Author
 
